@@ -23,6 +23,7 @@ const Hero = () => (
       className="flex-[0.5] lg:max-w-[100px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
     >
       <div className="feedback-gradient" />
+      
       <div className="mb-5 grid grid-cols-1 grid-rows-5 gap-10 place-items-center ">
       <motion.div
       className="box"
@@ -119,6 +120,16 @@ const Hero = () => (
       <div className="feedback-gradient" />
       <div>
         
+
+    
+    <div className="static absolute bottom-0 right-0"><img src="Hero.png" 
+              width="500"
+              height="500" 
+              alt="pixi-world"
+         />
+    </div>
+
+    
       </div>
     </motion.div>
     <motion.div
