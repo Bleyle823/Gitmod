@@ -120,12 +120,111 @@ const Hero = () => (
       <div className="feedback-gradient" />
       <div>
         
-
+      {/* <div className="max-w-xl text-black ">
+                  <h1 className="font-jostBold text-[58px] leading-[50px] sm:text-7xl">
+                    Marketing is The Key of Business Sucess.
+                  </h1>
+                  <p className="font-jostRegular text-xl py-10 text-gray-600">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has
+                    been{' '}
+                  </p>
+                  <div className="flex items-center flex-wrap ">
+                    <button className="bg-[#3E3FD8] mr-4 flex text-white font-jostMedium w-[170px] h-[60px] rounded-3xl text-xl items-center justify-center">
+                      Get Started{' '}
+                      <svg
+                        width="23"
+                        height="23"
+                        viewBox="0 0 23 23"
+                        fill="none"
+                        className="mx-1"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect width="23" height="23" rx="5" fill="#EEF4FF" />
+                        <path
+                          d="M16.3536 12.3536C16.5488 12.1583 16.5488 11.8417 16.3536 11.6464L13.1716 8.46447C12.9763 8.2692 12.6597 8.2692 12.4645 8.46447C12.2692 8.65973 12.2692 8.97631 12.4645 9.17157L15.2929 12L12.4645 14.8284C12.2692 15.0237 12.2692 15.3403 12.4645 15.5355C12.6597 15.7308 12.9763 15.7308 13.1716 15.5355L16.3536 12.3536ZM7 12.5L16 12.5L16 11.5L7 11.5L7 12.5Z"
+                          fill="black"
+                        />
+                      </svg>
+                    </button>
+                    <button className="flex text-[#61646B] my-1 sm:my-0 items-center font-jostMedium text-xl">
+                      <svg
+                        width="48"
+                        height="48"
+                        viewBox="0 0 48 48"
+                        fill="none"
+                        className="mr-1"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="24" cy="24" r="20" fill="#3E3FD8" />
+                        <circle cx="24" cy="24" r="20.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="22.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="21.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="23.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <path
+                          d="M31 22.2679C32.3333 23.0377 32.3333 24.9623 31 25.7321L22 30.9282C20.6667 31.698 19 30.7358 19 29.1962L19 18.8038C19 17.2642 20.6667 16.302 22 17.0718L31 22.2679Z"
+                          fill="#EEF4FF"
+                        />
+                      </svg>
+                      Watch Our Video
+                    </button>
+                  </div>
+                </div> */}
+    <div className="absolute bottom-0 left-0">
     
+    <div className="ml-8 mb-10 max-w-xl text-black ">
+                  <h1 className="font-bold sm:text-[30px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
+                    A Modding Community
+                  </h1>
+                  <p className="font-jostRegular max-w-sm  text-xl py-5 text-white">
+                  Share your wildest ideas, transform games, and take them beyond their limits. Unpack files, tinker with code & create mods that redefine the gaming experience.{' '}
+                  </p>
+                  <div className="flex items-center flex-wrap ">
+                    <button className="bg-[#3E3FD8] mr-4 flex text-white font-jostMedium w-[170px] h-[60px] rounded-3xl text-xl items-center justify-center">
+                      Get Started{' '}
+                      <svg
+                        width="23"
+                        height="23"
+                        viewBox="0 0 23 23"
+                        fill="none"
+                        className="mx-1"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect width="23" height="23" rx="5" fill="#EEF4FF" />
+                        <path
+                          d="M16.3536 12.3536C16.5488 12.1583 16.5488 11.8417 16.3536 11.6464L13.1716 8.46447C12.9763 8.2692 12.6597 8.2692 12.4645 8.46447C12.2692 8.65973 12.2692 8.97631 12.4645 9.17157L15.2929 12L12.4645 14.8284C12.2692 15.0237 12.2692 15.3403 12.4645 15.5355C12.6597 15.7308 12.9763 15.7308 13.1716 15.5355L16.3536 12.3536ZM7 12.5L16 12.5L16 11.5L7 11.5L7 12.5Z"
+                          fill="black"
+                        />
+                      </svg>
+                    </button>
+                    <button className="flex text-[#61646B] my-1 sm:my-0 items-center font-jostMedium text-xl">
+                      <svg
+                        width="48"
+                        height="48"
+                        viewBox="0 0 48 48"
+                        fill="none"
+                        className="mr-1"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <circle cx="24" cy="24" r="20" fill="#3E3FD8" />
+                        <circle cx="24" cy="24" r="20.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="22.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="21.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <circle cx="24" cy="24" r="23.95" stroke="#3E3FD8" strokeWidth="0.1" />
+                        <path
+                          d="M31 22.2679C32.3333 23.0377 32.3333 24.9623 31 25.7321L22 30.9282C20.6667 31.698 19 30.7358 19 29.1962L19 18.8038C19 17.2642 20.6667 16.302 22 17.0718L31 22.2679Z"
+                          fill="#EEF4FF"
+                        />
+                      </svg>
+                      Watch Our Video
+                    </button>
+                  </div>
+                </div>
+
+    </div>
     <div className="static absolute bottom-0 right-0"><img src="Hero.png" 
-              width="500"
-              height="500" 
-              alt="pixi-world"
+              width="470"
+              height="470" 
+              alt="Hero"
          />
     </div>
 
@@ -134,7 +233,7 @@ const Hero = () => (
     </motion.div>
     <motion.div
       variants={footerVariants }
-      className="relative flex-1 flex row-start-2 justify-center items-center  lg:min-h-[100px]  lg:min-w-[900px] flex  flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+      className="relative flex-1 flex row-start-2 justify-center items-center  lg:min-h-[100px]  lg:min-w-[900px] flex  flex-col gradient-05 sm:p-6 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
     >
       {/* <img
         src="/planet-09.png"
@@ -143,30 +242,31 @@ const Hero = () => (
       /> */}
       <div className="feedback-gradient" />
       <div>
-        <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-          Sam
-        </h4>
-        <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-          Fou
-        </p>
+        
+<div className="mt- grid grid-cols-5 grid-rows-1 gap-6">
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-5 rounded-xl cursor-pointer" >1</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">2</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">3</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">4</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">5</div>
+</div>
+    
       </div>
     </motion.div>
     </div>
 
     <motion.div
       variants={fadeIn('left', 'tween', 0.2, 1)}
-      className="flex-[0.5] lg:max-w-[300px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
+      className="flex-[0.5] lg:max-w-[400px] flex justify-end flex-col gradient-05 sm:p-8 p-4 rounded-[32px] border-[1px] border-[#6A6A6A] relative"
     >
       <div className="feedback-gradient" />
-      <div>
-        <h4 className="font-bold sm:text-[32px] text-[26px] sm:leading-[40.32px] leading-[36.32px] text-white">
-          Sam
-        </h4>
-        <p className="mt-[8px] font-normal sm:text-[18px] text-[12px] sm:leading-[22.68px] leading-[16.68px] text-white">
-          Fou
-        </p>
-      </div>
-
+      
+<div className="mb-40  place-items-center grid grid-cols-1 grid-rows-4 gap-7">
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[50px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">2</div>
+    <div className="transition relative  backdrop-blur bg-white/90     w-[120px] h-[50px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">3</div>
+    <div className="transition relative  backdrop-blur bg-white/90     w-[120px] h-[50px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">4</div>
+</div>
+    
       {/* <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-white">
         “With the development of today's technology, metaverse is very
         useful for today's work, or can be called web 3.0. by using
