@@ -11,7 +11,9 @@ const MyApp = ({ Component, pageProps }) => (
       <link rel="preconnect" href="https://stijndv.com" />
       <link rel="stylesheet" href="https://stijndv.com/fonts/Eudoxus-Sans.css" />
     </Head>
+    <div className="bg-primary-black overflow-hidden">
     <Component {...pageProps} />
+    </div>
   </>
 );
 

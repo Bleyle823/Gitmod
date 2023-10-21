@@ -1,6 +1,7 @@
 'use client';
 
 import { motion } from 'framer-motion';
+import Link from "next/link";
 
 
 import styles from '../styles';
@@ -61,11 +62,13 @@ const Hero = () => (
     >
     <div className="row-start-3 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
     <div className="mr-1 mt-1">
+    <Link href="/Video">
     <img src="pushmessage.png" 
               width="28"
               height="28" 
               alt="pixi-world"
          />
+    </Link>
     </div>
     </div>
     </motion.div>
