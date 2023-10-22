@@ -62,7 +62,7 @@ const Hero = () => (
     >
     <div className="row-start-3 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
     <div className="mr-1 mt-1">
-    <Link href="/Video">
+    <Link href="/Chat">
     <img src="pushmessage.png" 
               width="28"
               height="28" 
@@ -79,11 +79,14 @@ const Hero = () => (
       transition={{ type: "spring", stiffness: 400, damping: 10 }}
     >
     <div className="row-start-4 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
+    <Link href="/Chat">
     <img src="pushvid1.png" 
+
               width="24"
               height="24" 
               alt="pixi-world"
          />
+      </Link>
     </div>
     </motion.div>
 
@@ -93,11 +96,13 @@ const Hero = () => (
       transition={{ type: "spring", stiffness: 400, damping: 10 }}
     >
     <div className="row-start-5 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
+    <Link href="/Spaces"> 
     <img src="Profile.png" 
               width="24"
               height="24" 
               alt="pixi-world"
          />
+         </Link>
     </div>
     </motion.div>
 </div>
