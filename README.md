@@ -48,20 +48,20 @@ Current game modding community platforms, while valuable, do have several issues
 
  ## SCROLL
  
- Gitmod.sol : https://sepolia.scrollscan.dev/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
- NFTMarket.sol :  https://sepolia.scrollscan.dev/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
- GitmodApe.sol : https://sepolia.scrollscan.dev/address/0x0Aa93Ea4Ad54cA337f83F85cC909438e281cC25B
+- Gitmod.sol : https://sepolia.scrollscan.dev/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
+- NFTMarket.sol :  https://sepolia.scrollscan.dev/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
+- GitmodApe.sol : https://sepolia.scrollscan.dev/address/0x0Aa93Ea4Ad54cA337f83F85cC909438e281cC25B
   
  ## POLYGONZKEVM 
  
-  GitmodApe.sol :  https://testnet-zkevm.polygonscan.com/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
-  NFTMarket.sol :  https://testnet-zkevm.polygonscan.com/address/0x8717AA1C02bf4a16aa1a4a6114594c2b855bfA8E
-  NFT.sol :  https://testnet-zkevm.polygonscan.com/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
+ - GitmodApe.sol :  https://testnet-zkevm.polygonscan.com/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
+ - NFTMarket.sol :  https://testnet-zkevm.polygonscan.com/address/0x8717AA1C02bf4a16aa1a4a6114594c2b855bfA8E
+ - NFT.sol :  https://testnet-zkevm.polygonscan.com/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
  
  ## FILECOIN 
 
- GitmodApe.sol :  https://calibration.filfox.info/en/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
- NFTMarket.sol :  https://calibration.filfox.info/en/address/0x55027d3dBBcEA0327eF73eFd74ba0Af42A13A966
- NFT.sol : https://calibration.filfox.info/en/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
+- GitmodApe.sol :  https://calibration.filfox.info/en/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
+- NFTMarket.sol :  https://calibration.filfox.info/en/address/0x55027d3dBBcEA0327eF73eFd74ba0Af42A13A966
+- NFT.sol : https://calibration.filfox.info/en/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
  
 
