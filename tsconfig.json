@@ -32,7 +32,7 @@
     "pages/Chat.jsx",
     "pages/Chat.js",
     ".next/types/**/*.ts"
-  ],
+, "hardhat.config.js", "hardhat.config.js"  ],
   "exclude": [
     "node_modules"
   ]
