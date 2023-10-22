@@ -79,7 +79,7 @@ const Hero = () => (
       transition={{ type: "spring", stiffness: 400, damping: 10 }}
     >
     <div className="row-start-4 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
-    <Link href="/Chat">
+    <Link href="/Upload">
     <img src="pushvid1.png" 
 
               width="24"
