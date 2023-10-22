@@ -47,6 +47,7 @@ Current game modding community platforms, while valuable, do have several issues
  # CONTRACTS ARE DEPLOYED AT :
 
  ## SCROLL
+ https://sepolia.scrollscan.dev/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
   ```
   Gitmod.sol : 0x4e6D13970EF0841e8d9275078F2B5B91918B10e6 / https://sepolia.scrollscan.dev/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
   NFTMarket.sol : 0x820B15386EA0D67F0fE89DC0da69A95e4726f59a / https://sepolia.scrollscan.dev/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
