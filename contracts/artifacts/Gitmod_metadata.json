@@ -1,0 +1,134 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "User",
+						"type": "address"
+					}
+				],
+				"name": "Allow",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "User",
+						"type": "address"
+					}
+				],
+				"name": "DisAllow",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "User",
+						"type": "address"
+					}
+				],
+				"name": "Display",
+				"outputs": [
+					{
+						"internalType": "string[]",
+						"name": "",
+						"type": "string[]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "ShareAccess",
+				"outputs": [
+					{
+						"components": [
+							{
+								"internalType": "address",
+								"name": "User",
+								"type": "address"
+							},
+							{
+								"internalType": "bool",
+								"name": "Allow",
+								"type": "bool"
+							}
+						],
+						"internalType": "struct Gitmod.Access[]",
+						"name": "",
+						"type": "tuple[]"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "User",
+						"type": "address"
+					},
+					{
+						"internalType": "string",
+						"name": "URL",
+						"type": "string"
+					}
+				],
+				"name": "Upload",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Gitmod.sol": "Gitmod"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Gitmod.sol": {
+			"keccak256": "0x7bbbbd88594e5bca6f3c14c85f14a2b28d4b91c6820549d256ecd102fffd5772",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ea7b097c851cc9ff7004cc5f7e3c9a7324fe4566d7f6d0189398656498514ff4",
+				"dweb:/ipfs/Qmet9KeD3D5QPbSvAthvTXvMvB69BQ4q9zeNvABnFjC2rv"
+			]
+		}
+	},
+	"version": 1
+}
