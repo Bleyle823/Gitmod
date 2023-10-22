@@ -63,5 +63,12 @@ Current game modding community platforms, while valuable, do have several issues
 - GitmodApe.sol :  https://calibration.filfox.info/en/address/0x4e6D13970EF0841e8d9275078F2B5B91918B10e6
 - NFTMarket.sol :  https://calibration.filfox.info/en/address/0x55027d3dBBcEA0327eF73eFd74ba0Af42A13A966
 - NFT.sol : https://calibration.filfox.info/en/address/0x820B15386EA0D67F0fE89DC0da69A95e4726f59a
+
+ ## MANTLE 
+ 
+- GitmodApe.sol : https://explorer.testnet.mantle.xyz/address/0x59519327Cff5A340F0b6cd4597ce8E5db5b41A11
+- Gitmod.sol : https://explorer.testnet.mantle.xyz/address/0x056988f94E63F70067089f5f1Be75eb9324C9D0f
+- NFTMarket.sol : https://explorer.testnet.mantle.xyz/address/0xfCCfECcFBB21e97251924235481De91ed03F11c2
+- NFT.sol : https://explorer.testnet.mantle.xyz/address/0x90f0E7a3D80Ff8a577B145eDacD65C3aC149f1Bc
  
 
