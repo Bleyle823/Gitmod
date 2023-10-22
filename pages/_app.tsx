@@ -61,6 +61,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       {/* hacky fix for wagmi ssr hydration errors */}
       {loadWagmi ? (
+         <div className="bg-primary-black overflow-hidden">
         <WagmiConfig client={wagmiClient}>
           <RainbowKitProvider theme={darkTheme()} chains={chains}>
           <AccountContext.Provider value={{ pgpPrivateKey, setPgpPrivateKey }}>
@@ -77,6 +78,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     supportAddress="0xd9c1CCAcD4B8a745e191b62BA3fcaD87229CB26d" //support address          
 /> */}
         </WagmiConfig>
+        </div>
       ) : null}
     </>
   );

@@ -33,11 +33,13 @@ const Hero = () => (
     >
        
     <div className="transition relative   bg-white/90  w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer " >
+    <Link href="/Upload">
         <img src="Home.png" 
               width="30"
               height="30" 
               alt="pixi-world"
          />
+         </Link>
     </div>
     </motion.div>
 
@@ -79,7 +81,7 @@ const Hero = () => (
       transition={{ type: "spring", stiffness: 400, damping: 10 }}
     >
     <div className="row-start-4 transition relative  backdrop-blur bg-white/90    w-[47px] h-[47px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">
-    <Link href="/Upload">
+    <Link href="/Video">
     <img src="pushvid1.png" 
 
               width="24"
@@ -252,11 +254,11 @@ const Hero = () => (
       <div>
         
 <div className="mt- grid grid-cols-5 grid-rows-1 gap-6">
-    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-5 rounded-xl cursor-pointer" >1</div>
-    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">2</div>
-    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">3</div>
-    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">4</div>
-    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">5</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-5 rounded-xl cursor-pointer" >VEHICLES🚗</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">TOOLS ⛏️</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">SCRIPTS 📜</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">MAPS🗺️</div>
+    <div className="transition relative  backdrop-blur bg-white/90    w-[120px] h-[95px] flex justify-center items-center mx-2 rounded-xl cursor-pointer">PLAYERS🙍‍♂️</div>
 </div>
     
       </div>
